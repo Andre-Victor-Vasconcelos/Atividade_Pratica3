@@ -1,0 +1,196 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* font-family: 'Montserrat', sans-serif; */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(245, 247, 248);
+}
+
+.container{
+    width: 80vw;
+    height: 2000px;
+    background-color: rgb(245, 247, 248);
+    margin: 0 auto;
+
+}
+
+
+.esquerda{
+    background-color: rgb(245, 247, 248);
+    width: 200px;
+    height: 100%;
+}
+.corpo{
+    width: 150px;
+    height: 350px;
+    margin: 10px;
+    margin-left: 27px;
+
+}
+
+.cabecalho{
+    margin-left: 173.5px;
+    width: 1029px;
+    height: 130px;
+    padding:15px;
+    background-color: rgb(245, 247, 248);
+
+}
+
+
+.separa{
+    width: 1000px;
+    height: 15px;
+    background-color: rgb(208, 210, 210);
+    position: relative;
+    top: 24px;
+
+}
+
+.sobremim{
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 40px;
+}
+
+.lorem_sobremim{
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 50px;
+}
+
+.contato_foto{
+    width: 1000px;
+    height: 432px;
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 65px;
+}
+
+.habilidades{
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 80px;
+
+}
+
+.front_end{
+    width: 1000px;
+    height: 35px;
+    background-color: gray;
+    
+}
+.perc_front{
+    width: 800px;
+    height: 35px;
+    background-color: rgb(32, 32, 32);
+    position: relative;
+    color: white;
+}
+
+.back_end{
+    width: 1000px;
+    height: 35px;
+    background-color: gray;
+}
+.perc_back{
+    width: 400px;
+    height: 35px;
+    background-color: rgb(32, 32, 32);
+    position: relative;
+    color: white;
+}
+
+.design_end{
+    width: 1000px;
+    height: 35px;
+    background-color: gray;
+}
+.perc_design{
+    width: 600px;
+    height: 35px;
+    background-color: rgb(32, 32, 32);
+    position: relative;
+    color: white;
+}
+/*     background-color: rgb(245, 247, 248);
+*/
+.formacao{
+    width: 1000px;
+    height: 620px;
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 935px;
+    left: 188px;
+}
+.idiomas{
+
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 875px;
+    left: 188px;
+
+}
+
+.portugues{
+    width: 1000px;
+    height: 35px;
+    background-color: gray;
+    
+}
+.perc_portugues{
+    width: 1000px;
+    height: 35px;
+    background-color: rgb(32, 32, 32);
+    position: relative;
+    color: white;
+}
+
+.separa2{
+    width: 1000px;
+    height: 15px;
+    background-color: rgb(208, 210, 210);
+    position: relative;
+    top: 845px;
+    left: 188px;
+
+}
+
+.projetos{
+    background-color: rgb(245, 247, 248);
+    position: relative;
+    top: 1560px;
+    left: 215px;
+}
+
+.foto1 {
+    background-color:  rgb(245, 247, 248);
+    width: 333.33px;
+    height: 250px;
+    margin-top: 25px;
+}
+
+.texto1>h2{
+    background-color: rgb(245, 247, 248);
+    width: 333.33px;
+    height: 100px;
+    margin-top: 0;
+    
+}
+.texto1>p{
+    background-color: rgb(255, 255, 255);
+    width: 333.33px;
+    height: 500px;
+   
+}
