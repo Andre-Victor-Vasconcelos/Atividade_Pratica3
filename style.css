@@ -194,3 +194,108 @@ body{
     height: 500px;
    
 }
+
+.projeto1{
+    display: inline-block;
+}
+
+.foto2 {
+    background-color:  rgb(245, 247, 248);
+    width: 333.33px;
+    height: 250px;
+ 
+}
+
+.texto2>h2{
+    background-color: rgb(245, 247, 248);
+    width: 333.33px;
+    height: 100px;
+    
+}
+.texto2>p{
+    background-color: rgb(255, 255, 255);
+    width: 333.33px;
+    height: 500px;
+   
+}
+
+.projeto2{
+    margin-top: 1px;
+    top: 51px;
+    left: 335px;
+    position: absolute;
+
+}
+
+
+.foto3 {
+    background-color:  rgb(245, 247, 248);
+    width: 333.33px;
+    height: 250px;
+ 
+}
+
+.texto3>h2{
+    background-color: rgb(245, 247, 248);
+    width: 333.33px;
+    height: 100px;
+    
+}
+.texto3>p{
+    background-color: rgb(255, 255, 255);
+    width: 333.33px;
+    height: 500px;
+   
+}
+
+.projeto3{
+    margin-top: 1px;
+    top: 51px;
+    left: 669px;
+    position: absolute;
+
+}
+
+.separa3{
+    width: 1000px;
+    height: 15px;
+    background-color: rgb(208, 210, 210);
+    position: relative;
+    top: 1580px;
+    left: 215px;
+
+}
+
+.quanto_cobro{
+top: 1600px;
+left: 215px;
+position: relative;
+
+}
+
+.tabela_preco{
+
+    width: 1000px;
+    height: 500px;
+    top: 1613px;
+    left: 220px;
+    position: relative;
+}
+
+td{
+    text-align: center;
+    width: 333.33px;
+    height: 100px;
+    border-style: solid;
+    font-size: 1.3em;
+}
+th{
+    height: 100px;
+    text-align: center;
+    border-style: solid;
+    background-color: rgb(208, 210, 210);
+    font-size: 1.3em;
+
+
+
+}
